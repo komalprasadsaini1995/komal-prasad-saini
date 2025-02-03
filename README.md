@@ -41,4 +41,4 @@ Ensure that you have Python installed on your system along with the required lib
 Conclusion
 The IMDB Analysis Python project aims to leverage data analysis techniques to gain insights into the movie industry and inform decision-making. By analyzing IMDB movie data, we can uncover valuable information about movie trends, ratings, revenue, and more.
 
-For any questions or inquiries regarding the project, please contact Swapnil Nagpure , Email - swapnilnagpure8@gmail.com .
+For any questions or inquiries regarding the project, please contact komal prasad saini behror , Email - kp2899990@gmail.com 
